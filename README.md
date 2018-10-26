@@ -1,5 +1,5 @@
 # ML_Coursera
-Machine learning assignment
+- Machine learning assignment
 - IDE: Octave 4.4.0
 ## Contents
 - ML3: Multi-class Classification and Neural Networks
