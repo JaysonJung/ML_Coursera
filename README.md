@@ -1,5 +1,6 @@
 # ML_Coursera
 - Machine learning assignment
+- I posted a part that I implemented, of the whole source code  
 - IDE: Octave 4.4.0
 ## Contents
 - ML3: Multi-class Classification and Neural Networks
